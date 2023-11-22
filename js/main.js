@@ -128,7 +128,7 @@ for(let i = 0; i<autoDiesel.length; i++){
 `
 }
 
-for(let i = 0; i<autoDiesel.length; i++){
+for(let i = 0; i<autoRestanti.length; i++){
     document.getElementById("lista").innerHTML += 
     `
 
